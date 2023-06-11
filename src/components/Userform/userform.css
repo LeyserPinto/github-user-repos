@@ -1,0 +1,13 @@
+p{
+    font-size:.8em;
+}
+form input {
+    width: 250px;
+    height: 20px;
+}
+
+.search-error-p{
+    color: rgb(255, 88, 88);
+    font-style: italic;
+    font-size: .8em;
+}
